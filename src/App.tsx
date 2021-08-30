@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          A Linux distro targetting both power-users and beginners.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/kytten-linux/kytten-linux.github.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          View source code on Github.
         </a>
       </header>
     </div>
